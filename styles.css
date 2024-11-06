@@ -365,4 +365,22 @@ section {
     margin: 0;
     line-height: 1.6;
     color: rgba(255, 255, 255, 0.9);
-} 
+}
+
+/* Add styles for language toggle button */
+.lang-toggle {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.lang-toggle:hover {
+    color: var(--neon-blue);
+    text-shadow: 0 0 8px var(--neon-blue);
+}
