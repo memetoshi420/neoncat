@@ -26,7 +26,7 @@ const translations = {
         ca: "合约",
         links: "链接",
         howToBuy: "如何购买",
-        title: "$NEON猫",
+        title: "$霓虹猫",
         welcome: "100%原创IP，这个彩虹霓虹猫标志旨在成为猫币超级周期的领导者。它向有史以来最具标志性的表情包之一NYAN CAT致敬，同时又是一个全新的原创角色，其醒目的光环将吸引大众的注意力。一起发光吧！!! 😻🚀",
         contractAddress: "合约地址",
         neonCA: "NEON合约:",
